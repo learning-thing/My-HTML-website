@@ -3,12 +3,6 @@
   padding: 0;
   background-color: #2f2f2f;
 }
-
-h1 {
-  color: "white"
-
-}
-
 .main {
   height: 100vh;
   width: 100vw;
@@ -16,7 +10,7 @@ h1 {
 }
 .d1 {
   position: absolute;
-  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
+  background-image: url(http://hdwpro.com/wp-content/uploads/2019/01/Digital-Cool-Wallpaper.png);
   background-size: 1920px 1080px;
 
   height: 100vh;
@@ -33,7 +27,7 @@ h1 {
 }
 .d2 {
   position: absolute;
-  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
+  background-image: url(http://hdwpro.com/wp-content/uploads/2019/01/Digital-Cool-Wallpaper.png);
   background-size: 2700px 1500px;
 
   height: 50vh;
@@ -50,7 +44,7 @@ h1 {
 }
 .d3 {
   position: absolute;
-  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
+  background-image: url(http://hdwpro.com/wp-content/uploads/2019/01/Digital-Cool-Wallpaper.png);
   background-size: 2700px 1500px;
   overflow: hidden;
 
@@ -69,7 +63,7 @@ h1 {
 .d4 {
   position: absolute;
   overflow: hidden;
-  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
+  background-image: url(http://hdwpro.com/wp-content/uploads/2019/01/Digital-Cool-Wallpaper.png);
   background-size: 2700px 1500px;
 
   height: 80vh;
