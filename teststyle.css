@@ -10,11 +10,11 @@
 }
 .d1 {
   position: absolute;
-  background-image: url(http://hdwpro.com/wp-content/uploads/2019/01/Digital-Cool-Wallpaper.png);
+  background-image: hintergrund.png;
   background-size: 1920px 1080px;
 
   height: 100vh;
-  width: 15vw;
+  width: 200vw;
 
   background-position: 0 50%;
 
