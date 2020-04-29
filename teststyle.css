@@ -10,11 +10,11 @@
 }
 .d1 {
   position: absolute;
-  background-image: hintergrund.png;
+  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
   background-size: 1920px 1080px;
 
   height: 100vh;
-  width: 200vw;
+  width: 100vw;
 
   background-position: 0 50%;
 
@@ -27,7 +27,7 @@
 }
 .d2 {
   position: absolute;
-  background-image: hintergrund.png;
+  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
   background-size: 2700px 1500px;
 
   height: 50vh;
@@ -44,7 +44,7 @@
 }
 .d3 {
   position: absolute;
-  background-image: hintergrund.png;
+  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
   background-size: 2700px 1500px;
   overflow: hidden;
 
@@ -63,7 +63,7 @@
 .d4 {
   position: absolute;
   overflow: hidden;
-  background-image: hintergrund.png;
+  background-image: url(https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/hintergrund.png);
   background-size: 2700px 1500px;
 
   height: 80vh;
