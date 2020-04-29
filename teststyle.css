@@ -11,9 +11,9 @@
 .d1 {
   position: absolute;
   background-image: url(http://hdwpro.com/wp-content/uploads/2019/01/Digital-Cool-Wallpaper.png);
-  background-size: 1920px 1080px;
+  background-size: 1920px 2000px;
 
-  height: 100vh;
+  height: 80vh;
   width: 20vw;
 
   background-position: 0 50%;
@@ -30,7 +30,7 @@
   background-image: url(http://hdwpro.com/wp-content/uploads/2019/01/Digital-Cool-Wallpaper.png);
   background-size: 2700px 1500px;
 
-  height: 50vh;
+  height: 80vh;
   width: 25vw;
 
   background-position: -10vw 50%;
@@ -48,7 +48,7 @@
   background-size: 2700px 1500px;
   overflow: hidden;
 
-  height: 100vh;
+  height: 80vh;
   width: 40vw;
   left: 25vw;
   box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.8);
