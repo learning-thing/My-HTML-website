@@ -1,14 +1,25 @@
 body {
-  background-color: black;
+  background-color: rgb(39, 37, 37);
 }
 h1 {
   color: white;
+  background-color: grey;
 }
 
 h2 {
   color: white;
+  background-color: grey;
 }
 
 p {
   color: white;
+  background-color: grey;
+}
+
+
+.square {
+  vertical-align: center;
+  height: 50%;
+  width: 50%;
+  background-color: rgb(34, 31, 31);
 }
