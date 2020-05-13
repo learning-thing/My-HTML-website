@@ -1,25 +1,47 @@
 body {
   background-color: rgb(39, 37, 37);
+  background-image: url("hintergrund.png");
 }
 h1 {
-  color: white;
-  background-color: grey;
+  color: rgb(54, 54, 54);
+  text-align: center;
+  
 }
 
 h2 {
-  color: white;
-  background-color: grey;
+  color: rgb(114, 57, 4);
+  text-align: center;
+  background-color: #faf8d1;
+  background-size: cover;
+  font-family: sans-serif;
 }
 
 p {
-  color: white;
-  background-color: grey;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
 }
 
 
 .square {
-  vertical-align: center;
-  height: 50%;
-  width: 50%;
-  background-color: rgb(34, 31, 31);
+  clear: both;
+  margin: 120px;
+  animation: forwards;
+  height: 200px;
+  width: 80%;
+  background-color: rgb(34, 31, 31, 0.5);
+}
+
+
+
+title {
+  font-family: sans-serif;
+  text-align: end;
+}
+
+iframe {
+  width: 100%;
+  font-family: sans-serif;
+  background-color: aliceblue;
+  outline: transparent;
+  border: transparent;
 }
