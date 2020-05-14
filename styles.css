@@ -4,14 +4,14 @@ body {
 }
 h1 {
   
-  color: rgb(54, 54, 54);
+  color: white;
   text-align: center;
   background-color: rgb(34, 31, 31, 0.5);
   
 }
 
 h2 {
-  color: rgb(114, 57, 4);
+  color: blue;
   text-align: center;
   background-color: #faf8d1;
   background-size: cover;
