@@ -25,9 +25,8 @@ p {
 
 .square {
   margin: 100px;
-  animation: forwards;
   height: 200px;
-  width: 90%;
+  width: 85%;
   border: 4px outset blue;
   background-color: rgb(34, 31, 31, 0.5);
 }
