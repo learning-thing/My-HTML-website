@@ -27,12 +27,12 @@ p {
 
 
 .square {
-  clear: both;
   margin: 120px;
   animation: forwards;
   height: 200px;
   width: 80%;
-  background-color: rgb(34, 31, 31, 0.5);
+  border: 5px outset blue;
+  background-color: rgb(34, 31, 31, 0.4);
 }
 
 
@@ -58,7 +58,7 @@ a {
 }
 
 br {
-  background-color: rgba(6, 19, 29, 0.527);
+  background-color: rgba(0, 0, 29, 0.527);
 }
 
 
