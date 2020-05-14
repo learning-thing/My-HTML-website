@@ -50,3 +50,12 @@ iframe {
   outline: transparent;
   border: transparent;
 }
+
+a {
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  text-underline-position: below;
+}
+
+
