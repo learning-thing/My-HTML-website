@@ -22,13 +22,7 @@ p {
 }
 
 
-.square {
-  margin: 100px;
-  height: 80%;
-  width: 85%;
-  border: 4px outset blue;
-  background-color: rgb(34, 31, 31, 0.5);
-}
+
 
 
 
@@ -56,4 +50,13 @@ br {
   background-color: rgba(0, 0, 29, 0.527);
 }
 
+.square {
+  margin: 100px;
+  height: 80%;
+  width: 85%;
+  border: 4px outset blue;
+  background-color: rgb(34, 31, 31, 0.5);
+  &.effekt:hover
+    box-shadow: inset 0 0 0 5
+}
 
