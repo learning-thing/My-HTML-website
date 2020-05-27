@@ -2,7 +2,6 @@ body {
   background-image: url("https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/endless%20background.png");
 }
 h1 {
-  
   color: white;
   text-align: center;
   
@@ -24,11 +23,10 @@ p {
 .boxi {
   width: 100px;
   align-self: center;
-  margin-left: auto - auto / 2;
-  height: 0px;
+  height: 0;
   border-style: solid;
   animation: myanimation;
-  animation-duration: 4s;
+  animation-duration: 2s;
   animation-fill-mode: both;
   animation-iteration-count: 1;
   outline-color: transparent;
@@ -40,7 +38,7 @@ p {
 @keyframes myanimation {
   0%   {width: 25; height: 0; border-radius: 0 0 0 0;}
   25%  {width: 99%; height: 0; outline-color: blue; border-color: blue;}
-  50%  {width: 99%; height: 0; margin-left: 0%; outline-color: blue; color: red; border-color: crimson; color: blue;}
+  50%  {width: 500px; height: 0; margin-left: 0%; outline-color: blue; color: red; border-color: crimson; color: blue;}
   75%  {width: 25; height: 0; margin-left: 97%; outline-color: red; color: red; border-color: crimson;}
   100% {width: 10; height: 0; border-radius: 0 0 0 0;}
 }
