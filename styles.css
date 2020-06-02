@@ -45,7 +45,21 @@ p {
 
 
 
-
+.btn{
+  display: inline-block;
+  color: rgb(69, 184, 230);
+  text-decoration: none;
+  padding: 1rem 2rem;
+  border: rgba(30, 18, 199, 0.548) 1px solid;
+  margin-top:40px;
+  animation-name: btn;
+  animation-duration: 3s;
+  animation-delay: 3s;
+  animation-fill-mode: forwards;
+  box-shadow: black;
+  transition-property: transform;
+  transition-duration: 0.5s;
+}
 
 
 title {
