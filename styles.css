@@ -88,7 +88,7 @@ br {
 
 .square {
   margin: 100px;
-  height: 80%;
+  height: 100p;
   width: 85%;
   border: 4px outset blue;
   background-color: rgb(34, 31, 31, 0.5);
