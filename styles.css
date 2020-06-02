@@ -51,7 +51,7 @@ p {
   text-decoration: none;
   padding: 1rem 2rem;
   border: rgba(30, 18, 199, 0.548) 1px solid;
-  margin-right: 2%;
+  margin: 10;
   animation-name: btn;
   animation-duration: 3s;
   animation-delay: 3s;
