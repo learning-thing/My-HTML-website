@@ -2,4 +2,4 @@
 
 ## I am learning HTML 
 
-so his is mainly for testing purpose
+so this is mainly for testing purpose
