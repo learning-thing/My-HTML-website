@@ -1,5 +1,6 @@
 body {
   background-image: url("https://raw.githubusercontent.com/learning-thing/My-HTML-website/master/background.png");
+  background-attachment: fixed;
 }
 h1 {
   color: white;
